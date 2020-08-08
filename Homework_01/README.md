@@ -4,9 +4,10 @@ Instructions:
 
 HTML/CSS Code Refactor
 1) Corrected HTML Tags
-2) Fix href tag link
-3) Make sure HTML classes and id's are correct and correspond with css
-4) Edited css.style  
+2) Added Bootstrap for Nav Bar Buttons/ Responsive Design
+3) Fix href tag link
+4) Make sure HTML classes and id's are correct and correspond with css
+5) Edited css.style  
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
