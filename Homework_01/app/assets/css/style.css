@@ -35,7 +35,7 @@ body {
     padding: 0% 10% 0% 30%;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 25px;   
+    font-size: 23px;   
 }
 
 .header nav ul {
@@ -44,8 +44,10 @@ body {
 
 .header nav ul li {
     display: inline-block;
-    margin-left: 25px;
+    margin-left: 15px;
+    color: white;
 }
+
 /*  Header Responsive Design */
 
 a {
