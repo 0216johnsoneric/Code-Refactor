@@ -1,5 +1,5 @@
 Instructions:
-1) Clone lab: git clone git@github.com:0216johnsoneric/uconn_homework_one.git
+1) Clone lab: git clone git@github.com:0216johnsoneric/Code-Refactor.git
 2) Run in Browser w/ localhost or VS code browser extension
 
 HTML/CSS Code Refactor
